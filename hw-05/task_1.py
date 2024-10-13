@@ -54,6 +54,6 @@ H.delete("apple")
 print("\nAfter deletion:")
 print(H.table)
 
-print(H.get("apple"))   # Виведе: 10
+print(H.get("apple"))   # Виведе: none
 print(H.get("orange"))  # Виведе: 20
 print(H.get("banana"))  # Виведе: 30
